@@ -1,40 +1,6 @@
-Toggle navigation
-You have a captain's log due before 2023-05-21 (in 2 days)! Log it now!
-0x01. Shell, permissions
-DevOps
-Shell
-Bash
- By: Julien Barbier
- Weight: 1
- Project over - took place from Dec 1, 2022 6:00 AM to Dec 2, 2022 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 35.0/70 mandatory & 10.0/20 optional
-Altogether:  75.0%
-Mandatory: 50.0%
-Optional: 50.0%
-Calculation:  50.0% + (50.0% * 50.0%)  == 75.0%
-About Bash projects
-Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
-
-Resources
-Read or watch:
-
-Permissions
-man or help:
-
-chmod
-sudo
-su
-chown
-chgrp
-id
-groups
-whoami
-adduser
-useradd
-addgroup
-Learning Objectives
+**0x01. Shell, permissions**
+*********************************************************************
+**Learning Objectives**
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 Permissions
@@ -51,23 +17,7 @@ How to create a group
 How to print real and effective user and group IDs
 How to print the groups a user is in
 How to print the effective userid
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your scripts will be tested on Ubuntu 20.04 LTS
-All your scripts should be exactly two lines long ($ wc -l file should print 2)
-All your files should end with a new line (why?)
-The first line of all your files should be exactly #!/bin/bash
-A README.md file, at the root of the folder of the project, describing what each script is doing
-You are not allowed to use backticks, &&, || or ;
-All your files must be executable
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+********************************************************************
 Tasks
 0. My name is Betty
 mandatory
@@ -456,5 +406,3 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x01-shell_permissions
 File: 103-Star_Wars
-    
-Copyright © 2023 ALX, All rights reserved.
